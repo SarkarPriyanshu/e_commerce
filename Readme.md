@@ -1,4 +1,4 @@
-# Milestone-8: E-commerce
+# E-commerce
 
 ## Learning Competencies
 
